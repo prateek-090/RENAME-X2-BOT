@@ -2,10 +2,10 @@ class Scripted(object):
 
 
     PROGRESS_DIS = """\n
-<b>📁 : {1} | {2}</b>\n
-<b>♂️ : {0}%</b>\n
-<b>⚡ : {3}/s</b>\n
-<b>⏱️ : {4}</b>\n"""
+<b>📁Downloading To My Server : {1} | {2}</b>\n
+<b>♂️Percentage : {0}%</b>\n
+<b>⚡Speed: : {3}/s</b>\n
+<b>⏱️Estimated Time: {4}</b>\n"""
 
 
     HELP_TEXT = """
