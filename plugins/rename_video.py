@@ -92,7 +92,7 @@ async def rename_video(bot, update):
             await bot.edit_message_text(
             text=Scripted.TRYING_TO_UPLOAD,
             chat_id=update.chat.id,
-            message_id=a.message_id
+            message_id=c.message_id
                 )
             logger.info(the_real_download_location)
             width = 0
