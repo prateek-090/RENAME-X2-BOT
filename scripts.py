@@ -29,7 +29,7 @@ class Scripted(object):
 <b>Developer : <a href='https://t.me/Itz_Me_Malayaali'>✯°• Kʀɪsᴛʏ Oꜰꜰᴄɪᴀʟ •°✯</a></b>\n
 <b>Powered By : <a href='https://t.me/ML_BotUpdates'>• мℓ вσт υρ∂αтєѕ •</a></b>\n"""
 
-
+    RENAMING_VIDEO = "<b>Downloading...</b>"
     CUSTOM_CAPTION = "<b>{}</b>"
     PROCESSING_TEXT = "<b>Processing...</b>"
     ACCESS_DENIED = "<b>¥ou Are Banned 🚫</b>"
