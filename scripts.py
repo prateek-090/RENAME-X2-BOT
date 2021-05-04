@@ -48,5 +48,5 @@ class Scripted(object):
     REPLY_TO_FILE = "<b>Reply to that file with /rename new name.ext</b>"
     CONTACT_MY_DEVELOPER = "<b>Something Wrong Contact My Developer 🤯</b>"
     REPLY_TO_MEDIA = "<b>Reply to that Media with /rename_video New Name</b>"
-    START_TEXT = "<b>Hy..</b> \n\n<b>Simple file rename bot with permanent thumbnail support 💯</b>\n\nDeveloper : <a href='https://t.me/Itz_Me_Malayaali'>✯°• Kʀɪsᴛʏ Oꜰꜰᴄɪᴀʟ •°✯</a></b> "
+    START_TEXT = "<b>Hy..{}</b> \n\n<b>I'm A Simple File Renamer+File To Video Converter Bot With Permanent Thumbnail support!💯</b>\n\n<🌀PowerdeD By : <a href='https://t.me/ML_BotUpdates'>• мℓ вσт υρ∂αтєѕ •</a></b>\n\n🌈Developer : <a href='https://t.me/Itz_Me_Malayaali'>✯°• Kʀɪsᴛʏ Oꜰꜰᴄɪᴀʟ •°✯</b> "
     UPGRADE_TEXT = "<b>To upgrade your subscription <a href='https://t.me/Itz_Me_Malayaali'>[ Click Here ]</a></b>"
