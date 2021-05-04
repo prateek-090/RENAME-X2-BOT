@@ -29,6 +29,9 @@ class Scripted(object):
 <b>Developer : <a href='https://t.me/Itz_Me_Malayaali'>✯°• Kʀɪsᴛʏ Oꜰꜰᴄɪᴀʟ •°✯</a></b>\n
 <b>Powered By : <a href='https://t.me/ML_BotUpdates'>• мℓ вσт υρ∂αтєѕ •</a></b>\n"""
 
+
+
+    RENAMED_SUCCESS = "<b>File Downloaded Successfully 😃</b>"
     RENAMING_VIDEO = "<b>Downloading...</b>"
     CUSTOM_CAPTION = "<b>{}</b>"
     PROCESSING_TEXT = "<b>Processing...</b>"
