@@ -9,13 +9,22 @@ class Scripted(object):
 
 
     HELP_TEXT = """
-<b>Watch Video How to Use Me <a href='https://youtu.be/HnXdu74o34E'>[ ᴄʟɪᴄᴋ ʜᴇʀᴇ ]</a></b>\n
-<b>Send a photo to make it as thumbnail (optional)</b>\n
-<b>Send me any file (or) Media from telegram</b>\n
-<b>Convert files into video use /convert command</b>\n
-<b>Reply to that file with /rename new name.ext</b>\n
-<b>View your thumbnail do /sthumbnail command</b>\n
-<b>Delete your thumbnail do /dthumbnail command</b>"""
+
+💡𝗕𝗢𝗧𝗦 𝗛𝗘𝗟𝗣 :-
+
+<b>⚡sᴇɴᴅ ᴍᴇ ᴀ ᴛʜᴜᴍʙɴᴀɪʟ.
+
+⚡ sᴇɴᴅ ᴍᴇ ᴛʜᴇ ғɪʟᴇ ᴛᴏ ʙᴇ ʀᴇɴᴀᴍᴇᴅ..
+
+🎯 ʀᴇᴘʟʏ ᴛᴏ ᴛʜᴀᴛ ᴍᴇssᴀɢᴇ ᴡɪᴛʜ  <code>/rename new name.extension</code>. ᴡɪᴛʜ ᴄᴜsᴛᴏᴍ ᴛʜᴜᴍʙɴᴀɪʟ sᴜᴘᴘᴏʀᴛ. \n(ᴜᴘʟᴏᴀᴅ ᴀs ғɪʟᴇ).  📂.
+
+🎯ʀᴇᴘʟʏ ᴛᴏ ᴛʜᴀᴛ ᴍᴇssᴀɢᴇ ᴡɪᴛʜ  <code>/convert</code>. ᴡɪᴛʜ ᴄᴜsᴛᴏᴍ ᴛʜᴜᴍʙɴᴀɪʟ sᴜᴘᴘᴏʀᴛ .\n(ᴜᴘʟᴏᴀᴅɪɴɢ ᴀs ᴠɪᴅᴇᴏ)  🎞️.
+
+💎ᴠɪᴇᴡ ʏᴏᴜʀ ᴛʜᴜᴍʙɴᴀɪʟ ᴅᴏ /sthumbnail ᴄᴏᴍᴍᴀɴᴅ.
+
+💎ᴅᴇʟᴇᴛᴇ ʏᴏᴜʀ ᴛʜᴜᴍʙɴᴀɪʟ ᴅᴏ /dthumbnail ᴄᴏᴍᴍᴀɴᴅ.
+
+© ➽𝙳𝙴𝙴𝙺𝚂𝙷𝙸𝚃𝙷'𝚂 𝙱𝙾𝚃𝚂 .🤴</b>"""
 
 
     ABOUT_TEXT = """
