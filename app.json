@@ -46,7 +46,7 @@
       "value": "128"
     },
     "FFMPEG_DOWNLOAD_URL":{
-      "description": "ffmpeg"
+      "description": "ffmpeg",
       "value": ""
 
   },
