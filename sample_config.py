@@ -18,6 +18,7 @@ class Config(object):
 
     DOWNLOAD_LOCATION = "./DOWNLOADS"
 
+   
     DB_URI = os.environ.get("DATABASE_URL", "")
 
     UPDATE_GROUP = os.environ.get("UPDATE_GROUP", "")
@@ -29,3 +30,4 @@ class Config(object):
     AUTH_USERS = set(int(x) for x in os.environ.get("AUTH_USERS", "").split())
 
     BANNED_USERS = set(int(x) for x in os.environ.get("BANNED_USERS", "").split())
+    FFMPEG_DOWNLOAD_URL = 'https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest'
