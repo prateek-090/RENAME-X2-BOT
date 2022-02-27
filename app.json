@@ -44,7 +44,11 @@
     "CHUNK_SIZE": {
       "description": "chunk size that should be used with requests",
       "value": "128"
-    }
+    },
+    "FFMPEG_DOWNLOAD_URL":{
+      "description": "ffmpeg"
+      "value": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+
   },
   "addons": [
     {
