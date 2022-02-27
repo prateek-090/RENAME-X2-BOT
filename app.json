@@ -47,7 +47,7 @@
     },
     "FFMPEG_DOWNLOAD_URL":{
       "description": "ffmpeg"
-      "value": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+      "value": ""
 
   },
   "addons": [
